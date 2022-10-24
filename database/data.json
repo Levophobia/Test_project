@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://img01.ztat.net/article/spp-media-p1/c00d9ee3b5fd4b60963ecb6c1dc55882/00b54c074f094cb3983bf3154f94bb2b.jpg?imwidth=1800&filter=packshot",
+    "productname": "Dummy Data shoe",
+    "price": "19.99",
+    "category": "shoes",
+    "status": "In Stock"
+  },
+  {
+    "id": 2,
+    "avatar": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b7d9211c-26e7-431a-ac24-b0540fb3c00f/sko-air-force-1-07-GjGXSP.png",
+    "productname": "Nike shoe white",
+    "price": "19.99",
+    "category": "shoes",
+    "status": "In Stock"
+  },
+  {
+    "id": 3,
+    "avatar": "https://img01.ztat.net/article/spp-media-p1/b039fa510849462392385a678ce71584/4a5fd19c9edf42bb8b920bb1397162aa.jpg?imwidth=1800&filter=packshot",
+    "productname": "Levi's 501",
+    "price": "19.99",
+    "category": "jeans",
+    "status": "In Stock"
+  }
+]
